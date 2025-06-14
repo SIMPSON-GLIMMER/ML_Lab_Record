@@ -1,7 +1,7 @@
 # ML_Lab_Record
 Name : B.Simpson Glimmer
 
-class : C3
+Class : C3
 
 Roll no : 30
 
